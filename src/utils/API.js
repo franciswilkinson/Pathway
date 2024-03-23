@@ -1,7 +1,7 @@
 import axios from "axios";
 
-const appID = "b9900fa2";
-const apiKey = "546651ec2d56735011331769606df50a";
+const appID = "dd9d2b46";
+const apiKey = "e38d5b7ad2ca6194fde8d90e7469c8e8";
 const resultsPerPage = 50;
 
 const corsURL = "https://cors-anywhere-jung-48d4feb9d097.herokuapp.com/";
